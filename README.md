@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicomesa2001" alt="nicomesa2001" /></a> </p>
 
-- 🌱 I’m currently learning **React and Mobile**
-
-- 👯 I’m looking to collaborate on **SIESA**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **nicolai.enciso@outlook.com**
 
