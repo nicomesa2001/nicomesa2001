@@ -27,3 +27,4 @@ Entre otras :D!
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![Solidity](https://ethereum.stackexchange.com/help/badges/104/solidity)]()
