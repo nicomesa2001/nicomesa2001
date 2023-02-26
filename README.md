@@ -3,6 +3,7 @@
 ### Fullstack Developer
 
 Apasionado por el desarrollo de software!
+Soy una persona curiosa y siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos técnicos. Me gusta trabajar en equipo y colaborar en proyectos desafiantes para poder aprender de mis colegas.
 
 ## Contacto
 
