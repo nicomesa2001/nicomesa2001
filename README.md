@@ -1,4 +1,4 @@
-# Nicolai Enciso (Desarrollador Web)
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqYzR6eGI2ZTBkaWJjZ210Z3Zucjg0M2txd3N2anR0Z3ZibTA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40" height="40" /> Nicolai Enciso ( Desarrollador de Software )
 
 ### Sobre mí
 
