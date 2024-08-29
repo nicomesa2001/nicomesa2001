@@ -40,6 +40,6 @@ Estoy comprometido con mi crecimiento profesional y siempre estoy dispuesto a ap
 ### 📊 Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicomesa2001&show_icons=true&theme=dracula" style="max-width: 100%; height: auto; margin: 15px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomesa2001&theme=dracula" style="max-width: 100%; height: auto; margin: 15px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nicomesa2001&show_icons=true&theme=dracula" style="max-width: 100%; height: auto; margin: 15px;"/>    
 </p>
