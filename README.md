@@ -1,4 +1,4 @@
-# Nicolai Enciso (Desarrollador de Software) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqYzR6eGI2ZTBkaWJjZ210Z3Zucjg0M2txd3N2anR0Z3ZibTA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40" height="40" align="center"/>
+# Nicolai Enciso (Desarrollador de Software) ![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqYzR6eGI2ZTBkaWJjZ210Z3Zucjg0M2txd3N2anR0Z3ZibTA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif)
 
 ---
 
@@ -9,42 +9,43 @@ Soy una persona curiosa y siempre estoy buscando oportunidades para mejorar mis 
 Estoy comprometido con mi crecimiento profesional y siempre estoy dispuesto a aprender nuevas tecnologías y enfoques en el desarrollo web. Me considero un apasionado de la resolución de problemas y disfruto encontrar soluciones innovadoras.
 
 ---
+
 ## 🛠️ Lenguajes y Herramientas
 
 ### Lenguajes de Programación
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.simpleicons.org/javascript/000000" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" height="40" alt="Java" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
 </p>
 
 ### Frameworks y Librerías
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/django/092D3E" height="40" alt="Django" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring" />
 </p>
 
 ### Bases de Datos
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="Oracle" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
 </p>
 
 ### DevOps y Herramientas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/graphql/E434AA" height="40" alt="GraphQL" />
 </p>
 
 ## 📊 Stats
