@@ -1,4 +1,4 @@
-# Nicolai Enciso (Desarrollador de Software) ![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqYzR6eGI2ZTBkaWJjZ210Z3Zucjg0M2txd3N2anR0Z3ZibTA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif)
+# Nicolai Enciso (Desarrollador de Software)
 
 ---
 
@@ -17,7 +17,7 @@ Estoy comprometido con mi crecimiento profesional y siempre estoy dispuesto a ap
   <img src="https://cdn.simpleicons.org/javascript/000000" height="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" height="40" alt="Java" />
+  <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
 </p>
 
@@ -41,7 +41,7 @@ Estoy comprometido con mi crecimiento profesional y siempre estoy dispuesto a ap
 
 ### DevOps y Herramientas
 <p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="24" alt="Git" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
