@@ -66,15 +66,7 @@ Fundación Universitaria San Mateo, Bogotá, Cundinamarca (Junio 2018 - Diciembr
 ## 🌐 Idiomas
 - Español (Nativo)
 - Inglés (Intermedio)
-
-## 📜 Certificaciones
-- Curso de Clean Code y Buenas Prácticas con JavaScript - Platzi
-- Curso de Fundamentos de Sass: Crea tu Primera Landing Page - Platzi
-- Curso de Introducción a los Patrones de Diseño de Software - Platzi
-- Curso de Responsive Design: Maquetación Mobile First - Platzi
-- Curso Profesional de Git y GitHub - Platzi
-- Fundamentos de Ingeniería de Software - Platzi
-- 
+ 
 ## 📫 Cómo contactarme
 - 📧 Correo: nicolai.enciso@outlook.com
 - 📱 Teléfono: +57 317 3794233
