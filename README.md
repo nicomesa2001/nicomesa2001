@@ -6,7 +6,8 @@
 Desarrollador Full Stack apasionado con más de 3 años de experiencia, especializado en Java, Python y JavaScript (TypeScript). Autodidacta y motivado, con un fuerte enfoque en el desarrollo web, gestión eficiente de bases de datos y una clara comprensión de los principios de ingeniería de software. Conocido por mi rápido aprendizaje y resolución innovadora de problemas en proyectos desafiantes.
 
 ## 🚀 Experiencia Profesional
-- **Desarrollador Freelance** (Julio 2024 - Presente)
+- **Desarrollador** en GFT Technologies ( Octubre de 2024 - Presente )
+- **Desarrollador Freelance** (Julio 2024 )
 - **Desarrollador de Software** en DATATOOLS (Septiembre 2023 - Septiembre 2024)
 - **Desarrollador de Software** en Crash Saver (Agosto 2023 - Junio 2024)
 - **Desarrollador Backend** en Kronotime (Abril 2023 - Julio 2023)
